@@ -1,3 +1,6 @@
+#La idea es hacer este programa usando modulo y si es posible POO
+
+
 import tkinter as tk
 raiz = tk.Tk()
 
